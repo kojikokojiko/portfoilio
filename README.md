@@ -20,4 +20,10 @@ Predict Future Sales
 https://www.kaggle.com/c/competitive-data-science-predict-future-sales
 
 
+また、自分の学部での研究のコードも上げておきます。
+
+
+languvin
+
+lees-edwards
 
