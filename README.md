@@ -21,9 +21,9 @@ https://www.kaggle.com/c/competitive-data-science-predict-future-sales
 
 
 また、自分の学部での研究のコードも上げておきます。
+https://github.com/kojikokojiko/portfoilio/tree/master/res_portfolio
 
+languvin.cpp　LJポテンシャルを持つ系に流れを与え、分子動力学法を用いることでカルマン渦を再現するプログラム。
 
-languvin
-
-lees-edwards
+lees-edwards.cpp　正方形の系にLees-Edwardsに境界条件を適用することで、応力テンソルを求め系の粘性率を測定するプログラム。
 
