@@ -27,5 +27,7 @@ https://github.com/kojikokojiko/portfoilio/tree/master/res_portfolio
 
 ・lees-edwards.cpp　正方形の系にLees-Edwardsに境界条件を適用することで、応力テンソルを求め系の粘性率を測定するプログラム。
 
+rinnnai_hack
+株式会社リンナイさん主催のハッカソンでのコードをまとめたものです。
 
 
